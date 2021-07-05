@@ -13,7 +13,7 @@ metric.py -- eval metrics for the downstream tasks
 
 
 
-### part II: Train TOD-Net
+### Part II: Train TOD-Net
 main.py --  the main file to train taks-oriented wgan network
 
 model.py --  downstream segmentation network
