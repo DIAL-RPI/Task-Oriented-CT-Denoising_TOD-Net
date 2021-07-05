@@ -3,6 +3,9 @@
 This is the demo for our MICCAI-2021 paper 'Task-Oriented Low-Dose CT Image Denoising'. The original paper can be found here:
 https://arxiv.org/abs/2103.13557
 
+The codes include two parts, 'Train downstream tasks' and 'Train TOD-Net' as below.
+
+
 ### Part I: Train downstream tasks
 Train_downstream_tasks.py -- the main file to train downstream models, unet is used as an example
 
