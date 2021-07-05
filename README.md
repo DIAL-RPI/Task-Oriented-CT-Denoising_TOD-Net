@@ -28,6 +28,6 @@ loss.py -- losses used for training TOD-Net
 
 dataset.py -- user defined dataloader functions (loading 3D CT images)
 
-utils.py -- utils functions such as model initialization, model saving ...
+utils.py -- utils functions such as model initialization, model saving ect.
 
 metric.py -- eval metrics for the downstream tasks
