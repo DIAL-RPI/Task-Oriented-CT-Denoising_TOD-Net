@@ -15,6 +15,7 @@ utils.py -- utils functions such as model initialization, model saving ect.
 
 metric.py -- eval metrics for the downstream tasks
 
+CV_5-fold.txt -- data location where you save your ct images
 
 
 ### Part II: Train TOD-Net
